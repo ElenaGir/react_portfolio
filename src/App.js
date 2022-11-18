@@ -1,6 +1,6 @@
 
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
@@ -10,8 +10,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1 className="text-3xl font-bold underline">
-          Hello world!
+        <h1 className="text-5xl font-bold">
+          Hello,
+          Je suis Elena Girard
+          developpeuse web fullstack
         </h1>
         <a
           className="App-link"

@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+$primary-color:#ffd700;
+@import 'animate.css';
+
+@font-face {
+  font-family: 'Sura';
+  src: url('./assets/fonts/Sura-Regular.ttf') format('ttf');
+}
+@font-face {
+  font-family: 'Atkinson';
+  src: url('./assets/fonts/AtkinsonHyperlegible-Regular.ttf') format('ttf');
+}
+
+input,
+textarea {
+  font-family: 'Sura';
+}
